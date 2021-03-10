@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hansblackcat/Documents/dev/202021_OCEAN/2/build",
+  "command": "/usr/bin/g++ -I../includes -isystem /usr/include/python3.9 -isystem /usr/lib/python3.9/site-packages/numpy/core/include -isystem /usr/include/eigen3 -g -std=gnu++2a -o CMakeFiles/prog.dir/main.cxx.o -c /home/hansblackcat/Documents/dev/202021_OCEAN/2/main.cxx",
+  "file": "/home/hansblackcat/Documents/dev/202021_OCEAN/2/main.cxx"
+}
+]
